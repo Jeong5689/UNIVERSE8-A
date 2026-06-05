@@ -1,0 +1,6 @@
+{
+  "name": "UNIVERSE8",
+  "description": "Premium strategic media production, cinematic storytelling, and creator empowerment brand website for UNIVERSE8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
